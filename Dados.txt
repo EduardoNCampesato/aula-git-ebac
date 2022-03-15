@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome: Eduardo
+-Profissão: Gerente 
+-Cidade: São Paulo
+-O que faz nas horas vaga:
+-Estudar o curso Qualidade de Software:
+
+Modificando o arquivo de dados
+
